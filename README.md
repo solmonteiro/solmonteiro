@@ -2,7 +2,12 @@
 #### My name is Sol e Mares and here you'll find my recent projects and know about my hard skills!
 #### I love develop and I'm always working in something. Nowadays I'm looking for an opportunity in Android Development Area.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solmonteiro&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solmonteiro&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solmonteiro&count_private=true&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/solmonteiro/github-readme-stats)
+
+
+
 
 <!--
 **solmonteiro/solmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
