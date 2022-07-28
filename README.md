@@ -1,5 +1,6 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Sol e Mares and my nickname is solmonteiro!
+#### My name is Sol e Mares and here you'll find my recent projects and know about my hard skills!
+#### I love develop and I'm always working in something. Nowadays I'm looking for an opportunity in Android Development Area.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solmonteiro&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
