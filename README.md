@@ -1,4 +1,4 @@
-## 👋 Hi Devs! Welcome to my Github profile.
+## 👋 Hi Devs! Welcome to my profile.
 #### My name is Sol e Mares and here you'll find my recent projects and know about my hard skills!
 #### I love develop and I'm always working in something. Nowadays I'm looking for an opportunity in Android Development Area.
 
