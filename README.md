@@ -2,13 +2,13 @@
 #### My name is Sol e Mares and here you'll find my recent projects and know about my hard skills!
 #### I love develop and I'm always working in something. Nowadays I'm looking for an opportunity in Android Development Area.
 
-- 🌱 I’m currently learning about Android Basics in Kotlin (course provided by Google).
-- 🤔 I’m looking for help with Android Development and Kotlin/Java language.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solmonteiro&show_icons=true&layout=compact&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solmonteiro&count_private=true&layout=compact&theme=highcontrast&show_icons=true)](https://github.com/solmonteiro/github-readme-stats)
 
-
+- 🌱 I’m currently learning about Android Basics in Kotlin (course provided by Google).
+- 🤔 I’m looking for help with Android Development and Kotlin/Java language.
 
 
 <!--
