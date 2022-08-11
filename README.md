@@ -9,6 +9,7 @@
 
 - 🌱 I’m currently learning about Android Basics in Kotlin (course provided by Google).
 - 🤔 I’m looking for help with Android Development and Kotlin/Java language.
+- ⚡ Fun fact: my name is really Sol e Mares, what It means "Sun and Sears".
 
 
 <!--
@@ -23,7 +24,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 ### Contatos:
